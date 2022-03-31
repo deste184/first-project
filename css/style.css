@@ -69,9 +69,12 @@ li{
     background: #1f2937;
     display: flex;
     flex-direction: column;
+    position: relative;
 }
 
 .layer1container {
+    width: 85%;
+    height: 100%;
     border-radius: 1.5em;
     margin: 9em auto 9em auto;
     display: flex;
